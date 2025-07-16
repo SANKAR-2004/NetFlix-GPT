@@ -50,7 +50,7 @@ export const categories = [
   },
 ];
 
- 
+  
 
 export const BG_IMG_URL = process.env.REACT_APP_BG_IMG_URL;
   
